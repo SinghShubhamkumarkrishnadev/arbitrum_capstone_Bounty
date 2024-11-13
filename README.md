@@ -13,7 +13,7 @@ Visit the hosted version of our Social Forum App [here](https://arbitrum-capston
 
 ## 📹 Demo Video
 
-<a href="https://youtu.be/">
+<a href="https://youtu.be/1nBSi-7rAMY">
    <img src="https://github.com/SinghShubhamkumarkrishnadev/arbitrum_capstone_Bounty/blob/main/videos.png" alt="video demo" width="400" height="300">
 </a>
 
